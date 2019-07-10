@@ -27,3 +27,4 @@ C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoM
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.dll
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.pdb
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.csproj.CopyComplete
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.csprojAssemblyReference.cache
