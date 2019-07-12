@@ -27,8 +27,8 @@ namespace demoMVC.Controllers
                 Valor = 20000
             };
 
-            return RedirectToAction("Privacy", filme);
-            //return View();
+            //return RedirectToAction("Privacy", filme);
+            return View();
         }
         //[Route("privacidade")]
         //[Route("politica-de-privacidade")]

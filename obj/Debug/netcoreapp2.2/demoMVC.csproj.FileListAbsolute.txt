@@ -28,3 +28,5 @@ C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoM
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.pdb
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.csproj.CopyComplete
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.csprojAssemblyReference.cache
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AvisoGeral.g.cshtml.cs
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Carrinho\Default.g.cshtml.cs
