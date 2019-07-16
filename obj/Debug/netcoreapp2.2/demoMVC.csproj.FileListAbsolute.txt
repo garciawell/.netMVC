@@ -30,4 +30,9 @@ C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoM
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\demoMVC.csprojAssemblyReference.cache
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AvisoGeral.g.cshtml.cs
 C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Carrinho\Default.g.cshtml.cs
-C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\Adicionar.g.cshtml.cs
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\Create.g.cshtml.cs
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\Delete.g.cshtml.cs
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\Details.g.cshtml.cs
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\Edit.g.cshtml.cs
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\Index.g.cshtml.cs
+C:\Users\well_\Desktop\NET\demoMVC\demoMVC\demoMVC\obj\Debug\netcoreapp2.2\Razor\Views\Filmes\_DadosFormulario.g.cshtml.cs
