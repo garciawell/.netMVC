@@ -21,7 +21,7 @@ namespace demoMVC.Models
         [Display(Name = "Data de Lançamento")]
         public DateTime DataLancamento { get; set; }
 
-        [RegularExpression("@^[A-Z][a-z]+", ErrorMessage = "Genero em formato inválido")]
+        //[RegularExpression("@^[A-Z][a-z]+", ErrorMessage = "Genero em formato inválido")]
         [StringLength(30, ErrorMessage = "Máximo de 30 caracteres"), Required(ErrorMessage = "Obrigatório")]
         public string Genero { get; set; }
 
